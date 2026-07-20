@@ -1,0 +1,12 @@
+# Build do GHC
+*.hi
+*.o
+dist-newstyle/
+.stack-work/
+
+# Saída gerada pelo compilador
+*.j
+*.class
+
+# SO
+.DS_Store
